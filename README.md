@@ -15,6 +15,8 @@ Main Class:
 
 Demonstrates adding items, borrowing items, and listing items in the library.
 
+Why Item class is abstract?
+
 The Item class is defined as an abstract class to serve as a base class for all types of items (Books, CDs, DVDs, and Periodicals) in the library. Making it abstract provides several benefits and ensures appropriate application of object-oriented principles:
 
 Shared Characteristics and Behavior:
