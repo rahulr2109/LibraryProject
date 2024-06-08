@@ -20,6 +20,10 @@ public class Main {
 
         library.listItems();
 
+        library.removeItem(book2);
+
+        library.listItems();
+
         library.borrowItem(book1);
         library.borrowItem(periodical1);
 

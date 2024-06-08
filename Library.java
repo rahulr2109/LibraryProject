@@ -11,7 +11,7 @@ public class Library {
         this.items = new ArrayList<>();
     }
 
-    public void addItem(Item item) {
+    public void addItem(Item item) { 
         items.add(item);
         System.out.println(item.getTitle() + " added to the library.");
     }
